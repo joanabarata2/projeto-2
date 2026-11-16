@@ -1,0 +1,25 @@
+body {
+	background: lightyellow no-repeat center;
+}
+h1 {
+	color: red;
+}
+h1 {
+	font-family: Georgia,serif;
+}
+h2 {
+	color: purple;
+}
+h2 {
+	font.family: Georgia,serif;
+}
+.destaque{
+	color:green
+}
+.destaque{
+	margin: 20px
+}
+
+/*1- A regra que achei mais difícil foi a de colocar uma margem e superei-a a entar novamente no site de apoio e na IA.
+2- O erro mais comum que eu detetei foi o facto de muitas vezes não fechar as tags ou escrever errado dentro delas.
+3- O "href" serve para colocar um link numa imagem, fazendo com que quando clicamos nela, sejamos encaminhados para outro site ou página. É utilizado dentro da tag <a> e indica caminho para onde queremos ir.*/
